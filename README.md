@@ -15,7 +15,7 @@ A simple web app that translates text between multiple languages including Engli
 - MyMemory Translation API
 
 ## 📸 Screenshot
-![App Screenshot](Language Translator App screen shot)
+![App Screenshot](Language Translator App screen shot.jpeg)
 
 ## 🔗 Live Demo
 [View Live](https://your-username.github.io/language-translator)
