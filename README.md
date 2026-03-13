@@ -15,10 +15,10 @@ A simple web app that translates text between multiple languages including Engli
 - MyMemory Translation API
 
 ## 📸 Screenshot
-(Language Translator App screen shot.jpeg)
+App Screen Shot(Language Translator App screen shot.jpeg)
 
 ## 🔗 Live Demo
-[View Live](https://your-username.github.io/language-translator)
+[View Live](https://language-translator-app-lovat.vercel.app/)
 
 ## 📋 How to Use
 1. Enter source language (e.g., "English")
