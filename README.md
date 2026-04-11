@@ -26,6 +26,3 @@ App Screen Shot(Language Translator App screen shot.jpeg)
 3. Type text to translate
 4. Get instant translation!
 
-## 📞 Contact
-Your Name - [@your-twitter](https://twitter.com/...)
-Project Link: [https://github.com/your-username/language-translator](https://github.com/your-username/language-translator)
